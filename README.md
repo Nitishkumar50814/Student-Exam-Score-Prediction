@@ -37,14 +37,6 @@ Applied one-hot encoding for categorical variables
 
 Separated features (X) and target (y)
 
-## Data Preprocessing
-
-Checked for missing values
-
-Applied one-hot encoding for categorical variables
-
-Separated features (X) and target (y)
-
 
 ##  Model Performance
 
